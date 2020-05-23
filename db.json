@@ -1,0 +1,25 @@
+{
+  "clients": [
+    {
+      "name": "Noand",
+      "phone": "4243",
+      "company": "234234",
+      "email": "Fefsf",
+      "id": 5
+    },
+    {
+      "name": "Carolina3",
+      "phone": "423423",
+      "company": "Efsefefe",
+      "email": "Efsefs",
+      "id": 6
+    },
+    {
+      "name": "Juanist ACTUALIZADO",
+      "phone": "32",
+      "company": "Fdfsd",
+      "email": "Fdfsdf",
+      "id": 932
+    }
+  ]
+}

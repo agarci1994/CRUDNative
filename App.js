@@ -51,9 +51,6 @@ const App: () => React$Node = () => {
               options={({ navigation, route }) => ({
                 headerTitleAlign: "center",
                 title: "Inicio",
-                headerLeft: (props) => (
-                  <Nav {...props} navigation={navigation} route={route} />
-                ),
               })}
             />
             <Stack.Screen
